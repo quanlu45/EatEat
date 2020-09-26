@@ -1,5 +1,7 @@
 #####  一个使用java Applet开发的小游戏
 
+![效果图](https://github.com/quanlu45/EatEat/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
+
 **1.游戏名称**： EatEat
 
 **2.游戏操作：**
